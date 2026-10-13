@@ -60,8 +60,6 @@ Program menggunakan fungsi untuk memisahkan setiap proses perhitungan, perulanga
 
 ## Hasil Pengujian
 
-## Hasil Pengujian
-
 | No. | Pengujian | Input | Hasil yang Diharapkan | Hasil Aktual | Status |
 |---|---|---|---|---|---|
 | 1 | Luas persegi panjang | Pilihan: `1`<br/>Panjang: `8`<br/>Lebar: `5` | `Luas persegi panjang = 40.0` | `Luas persegi panjang = 40.0` | Berhasil |
